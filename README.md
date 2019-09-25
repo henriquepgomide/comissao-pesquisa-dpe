@@ -55,9 +55,9 @@ Veja o site do [Comitê de Ética em Pesquisa da UFV](http://www.cep.ufv.br/?pag
 
 # Referências 
 
-<a href="cns2012"> 1. Conselho Nacional de Saúde. (2012). Resolução Número 466. Recuperado de [link](http://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf)</a>
+<a href="cns2012">1.</a> Conselho Nacional de Saúde. (2012). Resolução Número 466. Recuperado de [link](http://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf)
 
-<a href="cns2016">2. Conselho Nacional de Saúde. (2016). Resolução N. 510, de 7 de Abril de 2016. Recuperado de [link](http://conselho.saude.gov.br/resolucoes/2016/Reso510.pdf)</a>
+<a href="cns2016">2.</a> Conselho Nacional de Saúde. (2016). Resolução N. 510, de 7 de Abril de 2016. Recuperado de [link](http://conselho.saude.gov.br/resolucoes/2016/Reso510.pdf)
 
 _Última atualização_: 25-09-2019 
 
