@@ -1,6 +1,7 @@
 # Informações gerais
 
-Olá!
+Olá! :)
+
 Este é um guia rápido elaborado pela Comissão de Pesquisa do Departamento deEducação da Universidade Federal de Viçosa. O objetivo ajudar você a avaliar se sua pesquisa deve passar pelo Comitê de Ética de Pesquisa. O foco é especial para as Ciências Humanas, então deve ser usado com mais cautela por pesquisadores de outras áreas do conhecimento.
 
 # Devo registrar meu projeto de pesquisa?
@@ -35,14 +36,13 @@ Por coleta entende-se:
 
 ## 1.4 Houve intenção de incorporação dos resultados de atividades de educação previamente conduzidas num projeto de pesquisa?
 
-# Resultados:
+# Resultados
 
 * Se respondeu sim para 1.1, 1.2 e 1.3 ou 1.4, você precisará submeter seu projeto ao CEP;
 * Se respondeu sim para 1.1, 1.2, e não para 1.3 ou 1.4, você não precisará submeter seu projeto ao CEP. Veja a sessão 'Atenção' abaixo por favor.
 
 ## Atenção
 Algumas das revistas científicas, geralmente as de maior impacto, exigem o parecer do comitê de ética em pesquisa.
-
 
 # Já comecei a pesquisa mas não a coleta, ainda é possível submeter o projeto ao CEP?
 Sim. No entanto, você só poderá submeter seu projeto se não tiver começado a etapa de coleta de dados. Por quê? Porque seu projeto os roteiros de entrevista, grupos focais, pesquisa participante precisam ser validados quanto aos aspectos ético.
@@ -55,8 +55,9 @@ Veja o site do [Comitê de Ética em Pesquisa da UFV](http://www.cep.ufv.br/?pag
 
 # Referências 
 
-<a href="cns2012"></a> 1. Conselho Nacional de Saúde. (2012). Resolução Número 466. Recuperado de [link](http://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf)
-<a href="cns2016"></a>2. Conselho Nacional de Saúde. (2016). Resolução N. 510, de 7 de Abril de 2016. Recuperado de [link](http://conselho.saude.gov.br/resolucoes/2016/Reso510.pdf)
+<a href="cns2012"> 1. Conselho Nacional de Saúde. (2012). Resolução Número 466. Recuperado de [link](http://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf)</a>
 
-# Data: 25-09-2019 
-# Autor: Henrique Gomide.
+<a href="cns2016">2. Conselho Nacional de Saúde. (2016). Resolução N. 510, de 7 de Abril de 2016. Recuperado de [link](http://conselho.saude.gov.br/resolucoes/2016/Reso510.pdf)</a>
+
+_Última atualização_: 25-09-2019 
+_Autor_: Henrique Gomide.
