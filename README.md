@@ -31,9 +31,9 @@ Por coleta entende-se:
 
 ## 1.2 Você está vinculado à UFV?
 
-# 1.3 Seu projeto envolve Trabalhos de Conclusão de Curso, monografias e similares, devendo-se, nestes casos, apresentar o protocolo de pesquisa ao sistema CEP/CONEP;
+## 1.3 Seu projeto envolve Trabalhos de Conclusão de Curso, monografias e similares, devendo-se, nestes casos, apresentar o protocolo de pesquisa ao sistema CEP/CONEP;
 
-# 1.4 Houve intenção de incorporação dos resultados de atividades de educação previamente conduzidas num projeto de pesquisa?
+## 1.4 Houve intenção de incorporação dos resultados de atividades de educação previamente conduzidas num projeto de pesquisa?
 
 # Resultados:
 
@@ -44,10 +44,10 @@ Por coleta entende-se:
 Algumas das revistas científicas, geralmente as de maior impacto, exigem o parecer do comitê de ética em pesquisa.
 
 
-# Já comecei a pesquisa, ainda é possível submeter o projeto ao CEP?
+# Já comecei a pesquisa mas não a coleta, ainda é possível submeter o projeto ao CEP?
 Sim. No entanto, você só poderá submeter seu projeto se não tiver começado a etapa de coleta de dados. Por quê? Porque seu projeto os roteiros de entrevista, grupos focais, pesquisa participante precisam ser validados quanto aos aspectos ético.
 
-# Dica se você vai encarar a Plataforma Brasil?
+# Veja este documento antes de encarar a plataforma Brasil. 
 Antes de começar, recomendo fortemente a leitura do manual de preenchimento da Plataforma Brasil para pesquisadores das Ciências Humanas. [Link disponível aqui](http://www.cep.ufv.br/wp-content/uploads/Carta-Circular-nº-110-2017-Sobre-o-preenchimento-da-PB-CHS-Ciências-Humanas-e-Sociais.pdf).
 
 # Recursos
