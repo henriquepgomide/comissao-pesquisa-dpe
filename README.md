@@ -60,4 +60,5 @@ Veja o site do [Comitê de Ética em Pesquisa da UFV](http://www.cep.ufv.br/?pag
 <a href="cns2016">2. Conselho Nacional de Saúde. (2016). Resolução N. 510, de 7 de Abril de 2016. Recuperado de [link](http://conselho.saude.gov.br/resolucoes/2016/Reso510.pdf)</a>
 
 _Última atualização_: 25-09-2019 
+
 _Autor_: Henrique Gomide.
